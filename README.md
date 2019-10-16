@@ -4,7 +4,7 @@ Create repositories in Github for sharing utilities between internal company and
 
 ## Personal Use
 - Create repositories for personal studying.
-- Training code skills.
+- Training coding skills.
 
 ## Create Repositories Process
 - Repositories/Projects Naming (using only lower case letters and special character '-')
